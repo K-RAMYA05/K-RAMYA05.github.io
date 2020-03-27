@@ -16,6 +16,11 @@ html {
     color:rgb(98,0, 49);
     
 }
+@media only screen and (max-width: 1280px) {
+    html {
+      background-color: lightblue;
+    }
+  }
 
 
 
